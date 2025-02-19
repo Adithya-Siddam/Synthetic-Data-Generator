@@ -20,7 +20,7 @@ This project focuses on generating synthetic data for various applications, incl
 
 To use this project, clone the repository and install the required dependencies:
 ### Clone the repository
-
+https://github.com/Adithya-Siddam/Synthetic-Data-Generator.git
 ### Navigate to the project directory
 cd synthetic-data-generation
 
