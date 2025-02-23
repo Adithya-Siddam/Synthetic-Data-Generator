@@ -1,0 +1,8 @@
+flask
+numpy
+pandas
+Pillow
+torch
+diffusers
+transformers
+faker  # NEW (for realistic names & dates)
